@@ -44,8 +44,8 @@ public class StoryAdapter extends ArrayAdapter<Story> {
     }
 
     /**
-     * Returns a list item view that displays information about the earthquake at the given position
-     * in the list of earthquakes.
+     * Returns a list item view that displays information about the story at the given position
+     * in the list of stories.
      */
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
